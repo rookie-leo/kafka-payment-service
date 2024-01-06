@@ -3,7 +3,7 @@ package br.com.paymentservice.resources.impl;
 import br.com.paymentservice.resources.PaymentResource;
 import br.com.paymentservice.services.PaymentService;
 import lombok.RequiredArgsConstructor;
-import models.Payment;
+import br.com.paymentservice.models.Payment;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,6 +1,6 @@
 package br.com.paymentservice.resources;
 
-import models.Payment;
+import br.com.paymentservice.models.Payment;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

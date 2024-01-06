@@ -2,7 +2,7 @@ package br.com.paymentservice.services.impl;
 
 import br.com.paymentservice.services.PaymentService;
 import lombok.extern.log4j.Log4j2;
-import models.Payment;
+import br.com.paymentservice.models.Payment;
 import org.springframework.stereotype.Service;
 
 @Log4j2
