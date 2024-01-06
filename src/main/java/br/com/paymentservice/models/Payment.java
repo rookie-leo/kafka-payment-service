@@ -1,4 +1,4 @@
-package models;
+package br.com.paymentservice.models;
 
 import lombok.Getter;
 
